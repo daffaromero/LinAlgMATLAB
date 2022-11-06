@@ -5,14 +5,16 @@ Simple, cut-and-dry MATLAB programs created for Linear Algebra (TKU211202) stude
 <ol>
   <li>cramer - Implementation of Cramer's rule on a random 3x3 matrix</li>
   <li>diagonalize - V * D * V-inverse diagonalization</li>
-  <li>symmetric - Checking if a matrix is symmetrical</li>
-  <li>symm_dia - Symmetric matrix diagonalization (V * D * V-transpose)</li>
-  <li>thelongway - Computing eigenvalues and right eigenvector manually</li>
-  <li>lu_decomp - LU decomposition of a matrix</li>
-  <li>ldlt - LDLT factorization of a matrix</li>
-  <li>posdef_1 - Checking if a matrix is positive definite using its determinant dan eigenvalues</li>
-  <li>posdef_2 - Checking if a matrix is positive definite with Cholesky decomposition</li>
   <li>jordancf - Jordan canonical form of a matrix</li>
+  <li>ldlt - L * D * L-transpose factorization of a matrix</li>
+  <li>lu_decomp - LU decomposition of a matrix</li>
+  <li>posdef_1 - Checking if a matrix is positive definite using its determinant and eigenvalues</li>
+  <li>posdef_2 - Checking if a matrix is positive definite with Cholesky decomposition</li>
+  <li>repeatedeig - Example of V * D * V-transpose diagonalization on a matrix with repeated eigenvalues</li>
+  <li>similar - Checking if two matrices are similar or otherwise</li>
+  <li>symm_dia - Symmetric matrix diagonalization (V * D * V-transpose)</li>
+  <li>symmetric - Checking if a matrix is symmetrical</li>
+  <li>thelongway - Computing eigenvalues and right eigenvector manually</li>
 </ol>
 
 ### General Glossary
@@ -32,4 +34,4 @@ Simple, cut-and-dry MATLAB programs created for Linear Algebra (TKU211202) stude
 
 
 Original creation date: 11-12 April 2022<br>
-Compiled by Daffa Romero, with the whole internet in his hands. <b>Not original code.</b>
+Compiled by Daffa Romero, with the whole internet in his hands. <b>Not all original code.</b>
